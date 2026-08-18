@@ -25,7 +25,7 @@ The paper's numbers were produced with the versions pinned in
 | Sec. 3 hand calculation and the getting-started density scripts | [dgarls/CODEE-SINDyCode](https://github.com/dgarls/CODEE-SINDyCode) |
 | Sec. 4 logistic (Japan), with the archived `JapanPopulation.csv` | [dgarls/CODEE-SINDyCode](https://github.com/dgarls/CODEE-SINDyCode) |
 | Sec. 5 Newton warming/cooling | `newton_simple/` (plain numpy) and `newton_pysindy/` (PySINDy port, identical output), raw and windowed CSVs inside |
-| Sec. 6 mass-spring (iOLab) | [rainam913/mass_spring_SINDy](https://github.com/rainam913/mass_spring_SINDy) |
+| Sec. 6 mass-spring (iOLab) | [rainam913/mass_spring_SINDy](https://github.com/rainam913/mass_spring_SINDy) ](https://github.com/rainam913/mass-spring-SINDy)|
 | Sec. 7 two-tank | [dgarls/CODEE-SINDyCode](https://github.com/dgarls/CODEE-SINDyCode) |
 | Sec. 9 exercise datasets (Japan, Italy) | [dgarls/CODEE-SINDyCode](https://github.com/dgarls/CODEE-SINDyCode) |
 
