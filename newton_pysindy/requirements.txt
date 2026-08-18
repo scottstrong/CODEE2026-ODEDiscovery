@@ -1,0 +1,5 @@
+numpy
+pandas
+scipy
+matplotlib
+pysindy>=2.0
