@@ -59,8 +59,7 @@ def main() -> int:
     print()
     if ok:
         print("Environment matches. Every result in the paper should reproduce here.")
-        print("Next: Problem 0 — run the logistic notebook unchanged and match the")
-        print("published Japan-population figure.")
+        print("Next: newton_simple/ (see the README for the full map)")
     else:
         print("Environment does NOT match the paper's. Results may differ; fix the")
         print("[FAIL] lines above (usually: pip install -r requirements.txt).")
