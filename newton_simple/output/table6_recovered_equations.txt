@@ -1,0 +1,11 @@
+Run-Probe  Minutes   n   Recovered equation           k(1/min)  tau(min)  T_A(F)
+A-I        79-115  37   T' = 6.1517 -0.0815 T    0.0815     12.3     75.53
+A-II       79-115  37   T' = 5.5935 -0.0749 T    0.0749     13.4     74.71
+B-I        17-27   11   T' = 14.1144 -0.0886 T    0.0886     11.3    159.31
+B-II       17-29   13   T' = 16.5300 -0.1048 T    0.1048      9.5    157.67
+C-I        35-73   39   T' = 2.5921 -0.0771 T    0.0771     13.0     33.63
+C-II       35-73   39   T' = -0.2557 -0.0812 T    0.0812     12.3     -3.15
+
+Room baseline, minutes 0-11:  Sensor I 75.78 F, Sensor II 74.89 F
+Recovered Run A ambient error: 0.26 and 0.18 F
+B-I minutes 27, 28, 29 read 140.0, 141.8, 139.6 F
