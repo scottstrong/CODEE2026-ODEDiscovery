@@ -1,0 +1,10 @@
+# Pinned environment for MS #1123. The published tables were verified with
+# these versions (Python 3.11-3.13; any platform with these wheels agrees to
+# all printed digits, except where a section notes machine-level sensitivity).
+# Keep in sync with PINNED in environment_check.py.
+numpy==2.4.3
+scipy==1.17.1
+pandas==3.0.2
+matplotlib==3.10.8
+pysindy==2.1.0
+pytest==9.1.1
