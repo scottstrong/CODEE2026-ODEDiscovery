@@ -1,6 +1,6 @@
-Run  Probe  dT(F)  Linear R2  dR2(Quad)  Leading samples in blue
+Run  Sensor  dT(F)  Linear R2  dR2(Quad)  Leading samples in blue
   A      I     21   0.9491    +0.0000        5
-  B      I     39   0.9609    +0.0328        3
+  B      I     39   0.9609    +0.0327        3
   C      I     81   0.8893    +0.0876        0
   A     II     40   0.9655    +0.0248        4
   B     II     44   0.9536    +0.0352        3

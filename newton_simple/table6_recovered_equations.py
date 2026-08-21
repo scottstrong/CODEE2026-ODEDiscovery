@@ -2,7 +2,7 @@
 and the caption's check of the Run A ambients against the room baseline."""
 from newton import SETTLED, series, load, fit, newton_constants, OUT
 
-rows = ["Run-Probe  Minutes   n   Recovered equation           k(1/min)  tau(min)  T_A(F)"]
+rows = ["Run-Sensor  Minutes   n   Recovered equation           k(1/min)  tau(min)  T_A(F)"]
 ambient = {}
 for rec in ["A-I", "A-II", "B-I", "B-II", "C-I", "C-II"]:
     a, b = SETTLED[rec]

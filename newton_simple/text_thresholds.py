@@ -2,7 +2,7 @@
   - the Run B-I walkthrough at threshold 0.01,
   - selection of {1, T} on every red, extended, and whole-run window,
   - the threshold plateau on the six settled windows (0.00106 to 0.0748),
-  - the range common to the eighteen windows (0.007 to 0.025),
+  - the largest interval common to the eighteen windows (0.007 to 0.024),
   - the quadratic coefficient Eq. (5.5) predicts from Table 6."""
 import numpy as np
 from newton import RUNS, RED, EXTENDED, SETTLED, RECORDS, series, fit, stlsq, newton_constants
